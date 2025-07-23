@@ -31,19 +31,19 @@ A classic word-guessing game implemented in Python with a clean command-line int
 
 Running the Game
 
-Clone the repository
+Clone the repository:
 ```bash
 git clone https://github.com/KanchanP333/hangman-game.git
 cd hangman-game
 ```
 
-Run the game
+Run the game:
 ```bash
 python hangman.py
 ```
 🎯 Code Highlights
 
-Set Operations: Utilizes Python sets for efficient letter tracking and validation
-List Comprehension: Clean word display logic with dashes for unguessed letters
-Random Selection: Fair word selection from extensive vocabulary
+- Set Operations: Utilizes Python sets for efficient letter tracking and validation
+- List Comprehension: Clean word display logic with dashes for unguessed letters
+- Random Selection: Fair word selection from extensive vocabulary
 
