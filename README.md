@@ -3,21 +3,21 @@ A classic word-guessing game implemented in Python with a clean command-line int
 
 🎮 Game Features
 
-Random Word Selection: Choose from a curated list of 1000+ English words
-Smart Word Filtering: Automatically excludes words with hyphens and spaces
-Lives System: Start with 6 lives and try to guess the word
-Input Validation: Handles duplicate guesses and invalid characters
-Visual Progress: See your guessed letters and current word progress
-Clean Interface: Clear feedback and game status updates
+- Random Word Selection: Choose from a curated list of 1000+ English words
+- Smart Word Filtering: Automatically excludes words with hyphens and spaces
+- Lives System: Start with 6 lives and try to guess the word
+- Input Validation: Handles duplicate guesses and invalid characters
+- Visual Progress: See your guessed letters and current word progress
+- Clean Interface: Clear feedback and game status updates
 
 🚀 How to Play
 
-The game randomly selects a word from the word list
-You have 6 lives to guess the word correctly
-Guess one letter at a time
-Correct guesses reveal letter positions in the word
-Wrong guesses cost you a life
-Win by guessing all letters before running out of lives!
+- The game randomly selects a word from the word list
+- You have 6 lives to guess the word correctly
+- Guess one letter at a time
+- Correct guesses reveal letter positions in the word
+- Wrong guesses cost you a life
+- Win by guessing all letters before running out of lives!
 
 📋 Game Rules
 
