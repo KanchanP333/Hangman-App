@@ -21,11 +21,11 @@ A classic word-guessing game implemented in Python with a clean command-line int
 
 📋 Game Rules
 
-✅ Enter single letters (A-Z)
-❌ Repeated guesses don't count against you
-🔄 Invalid inputs prompt you to try again
-💀 Game ends when you run out of lives
-🏆 Victory when all letters are guessed
+- ✅ Enter single letters (A-Z)
+- ❌ Repeated guesses don't count against you
+- 🔄 Invalid inputs prompt you to try again
+- 💀 Game ends when you run out of lives
+- 🏆 Victory when all letters are guessed
 
 🛠️ Installation & Setup
 
