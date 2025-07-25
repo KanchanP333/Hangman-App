@@ -27,21 +27,25 @@ A classic word-guessing game implemented in Python with a clean command-line int
 - 💀 Game ends when you run out of lives
 - 🏆 Victory when all letters are guessed
 
-🛠️ Installation & Setup
+# 🔧 How to Run the Game
+Download the following two files from this repository:
 
-Running the Game
-
-Clone the repository:
-```bash
-git clone https://github.com/KanchanP333/hangman-game.git
-cd hangman-game
+```
+hangman-game.py
+words.py
 ```
 
-Run the game:
-```bash
-python hangman.py
+Make sure both files are in the same folder.
+
+Open a terminal in that folder.
+
+Run the game using:
+
 ```
-🎯 Code Highlights
+python hangman-game.py
+```
+
+# 🎯 Code Highlights
 
 - Set Operations: Utilizes Python sets for efficient letter tracking and validation
 - List Comprehension: Clean word display logic with dashes for unguessed letters
